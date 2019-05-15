@@ -1,0 +1,11 @@
+{
+  "name": "benchmark-demo",
+  "version": "1.0.0",
+  "description": "JS性能基准测试",
+  "main": "index.js",
+  "author": "yinshipeng@126.com",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
